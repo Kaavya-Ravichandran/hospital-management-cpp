@@ -98,10 +98,6 @@ ID|Name|Age|Gender|Contact|Disease|AdmitDate|Doctor|Room
 - Internet connection (for downloading dependencies)
 - Modern web browser (for the frontend)
 
-## License
-
-MIT License - Feel free to use and modify as needed.
-
 ## Implementation
 <img width="452" height="262" alt="image" src="https://github.com/user-attachments/assets/a8a55fda-8d24-4aa6-b886-56ef7537a1a6" />
 
@@ -122,4 +118,4 @@ MIT License - Feel free to use and modify as needed.
 
 ---
 
-**Note**: Make sure to keep the server running while using the web interface. The frontend communicates with the C++ backend via HTTP requests.
+
