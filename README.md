@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# Hospital Management System
 
 A modern, full-stack hospital management system built with C++ backend and HTML/JavaScript frontend.
 
