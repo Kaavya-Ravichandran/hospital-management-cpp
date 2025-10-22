@@ -102,6 +102,10 @@ ID|Name|Age|Gender|Contact|Disease|AdmitDate|Doctor|Room
 
 MIT License - Feel free to use and modify as needed.
 
+## Implementation
+<img width="452" height="224" alt="image" src="https://github.com/user-attachments/assets/5b6db85c-81d7-4d64-be4c-53edfe54b4ea" />
+
+
 ---
 
 **Note**: Make sure to keep the server running while using the web interface. The frontend communicates with the C++ backend via HTTP requests.
